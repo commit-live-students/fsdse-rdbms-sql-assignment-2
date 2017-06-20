@@ -2,7 +2,7 @@
 
 # SQL Assignment
 
-This assignment is based on Products data stored in northwind.sql file inside Assignment Data directory.
+This assignment is based on Products data stored in [northwind.sql](https://raw.githubusercontent.com/commit-live-students/fsdse-rdbms-sql-assignment-2/master/data/northwind.sql) file inside Assignment Data directory.
 
 1.	Write a query to get Product name and quantity/unit.
 2.	Write a query to get current Product list (Product ID and name).
